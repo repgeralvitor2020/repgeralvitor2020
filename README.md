@@ -15,5 +15,5 @@
 - O projeto com angular se encontra nela em um zip.
 
 ## Funcionamento
-- Estando com a WebApi e o projeto do front rodando, basta selecionar 8 filmes na tela inicial e clicar botão: Gerar Meu Campeonato,
+- Estando com a WebApi e o projeto do front rodando, basta selecionar 8 filmes na tela inicial e clicar no botão: Gerar Meu Campeonato,
 em seguida irão aparecer os filmes vencedores (1º e 2º lugar).
