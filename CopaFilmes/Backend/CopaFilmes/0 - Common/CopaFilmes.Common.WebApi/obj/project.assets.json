@@ -12110,11 +12110,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\C#\\NETCORE\\2x\\CopaFilmes\\0 - Common\\CopaFilmes.Common.WebApi\\CopaFilmes.Common.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\Github\\CopaFilmes\\Backend\\CopaFilmes\\0 - Common\\CopaFilmes.Common.WebApi\\CopaFilmes.Common.WebApi.csproj",
       "projectName": "CopaFilmes.Common.WebApi",
-      "projectPath": "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\C#\\NETCORE\\2x\\CopaFilmes\\0 - Common\\CopaFilmes.Common.WebApi\\CopaFilmes.Common.WebApi.csproj",
+      "projectPath": "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\Github\\CopaFilmes\\Backend\\CopaFilmes\\0 - Common\\CopaFilmes.Common.WebApi\\CopaFilmes.Common.WebApi.csproj",
       "packagesPath": "C:\\Users\\Ignis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\C#\\NETCORE\\2x\\CopaFilmes\\0 - Common\\CopaFilmes.Common.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\Github\\CopaFilmes\\Backend\\CopaFilmes\\0 - Common\\CopaFilmes.Common.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12133,8 +12133,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\C#\\NETCORE\\2x\\CopaFilmes\\1 - Model\\CopaFilmes.Model.WebApi\\CopaFilmes.Model.WebApi.csproj": {
-              "projectPath": "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\C#\\NETCORE\\2x\\CopaFilmes\\1 - Model\\CopaFilmes.Model.WebApi\\CopaFilmes.Model.WebApi.csproj"
+            "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\Github\\CopaFilmes\\Backend\\CopaFilmes\\1 - Model\\CopaFilmes.Model.WebApi\\CopaFilmes.Model.WebApi.csproj": {
+              "projectPath": "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\Github\\CopaFilmes\\Backend\\CopaFilmes\\1 - Model\\CopaFilmes.Model.WebApi\\CopaFilmes.Model.WebApi.csproj"
             }
           }
         }

@@ -41,22 +41,25 @@ namespace CopaFilmes.Business.WebApi.CopaFilmes
             erro = "";
 
             if (filmes.Count != 8)
-                erro += "";
+                erro += NovaLinha("Não contém 8 filmes");
 
             foreach (var filme in filmes)
-                ValidarFilme(filme, erro);
+                ValidarFilme(filme, ref erro);
 
             return string.IsNullOrEmpty(erro);
         }
 
-        private void ValidarFilme(Filme filme, string erro)
+        private void ValidarFilme(Filme filme, ref string erro)
         {
             if (string.IsNullOrEmpty(filme.Id))
-                erro += "";
+                erro += NovaLinha("Contém filme sem Id válido");
             if (DateTime.MinValue.Year > filme.Ano)
-                erro += "";
+                erro += NovaLinha("Contém filme sem Ano válido");
             if (string.IsNullOrEmpty(filme.Titulo))
-                erro += "";
+                erro += NovaLinha("Contém filme sem Título válido");
         }
+
+        private string NovaLinha(string texto)
+            => string.Concat(texto, Environment.NewLine);
     }
 }

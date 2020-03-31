@@ -7,3 +7,12 @@ C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\1 - Model\Copa
 C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\1 - Model\CopaFilmes.Model.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Model.WebApi.AssemblyInfo.cs
 C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\1 - Model\CopaFilmes.Model.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Model.WebApi.dll
 C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\1 - Model\CopaFilmes.Model.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Model.WebApi.pdb
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\1 - Model\CopaFilmes.Model.WebApi\bin\Debug\netcoreapp2.2\CopaFilmes.Model.WebApi.deps.json
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\1 - Model\CopaFilmes.Model.WebApi\bin\Debug\netcoreapp2.2\CopaFilmes.Model.WebApi.dll
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\1 - Model\CopaFilmes.Model.WebApi\bin\Debug\netcoreapp2.2\CopaFilmes.Model.WebApi.pdb
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\1 - Model\CopaFilmes.Model.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Model.WebApi.csprojAssemblyReference.cache
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\1 - Model\CopaFilmes.Model.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Model.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\1 - Model\CopaFilmes.Model.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Model.WebApi.AssemblyInfoInputs.cache
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\1 - Model\CopaFilmes.Model.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Model.WebApi.AssemblyInfo.cs
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\1 - Model\CopaFilmes.Model.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Model.WebApi.dll
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\1 - Model\CopaFilmes.Model.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Model.WebApi.pdb

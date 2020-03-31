@@ -12149,11 +12149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\C#\\NETCORE\\2x\\CopaFilmes\\3 - WebApi\\CopaFilmes.WebApi\\CopaFilmes.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\Github\\CopaFilmes\\Backend\\CopaFilmes\\3 - WebApi\\CopaFilmes.WebApi\\CopaFilmes.WebApi.csproj",
       "projectName": "CopaFilmes.WebApi",
-      "projectPath": "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\C#\\NETCORE\\2x\\CopaFilmes\\3 - WebApi\\CopaFilmes.WebApi\\CopaFilmes.WebApi.csproj",
+      "projectPath": "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\Github\\CopaFilmes\\Backend\\CopaFilmes\\3 - WebApi\\CopaFilmes.WebApi\\CopaFilmes.WebApi.csproj",
       "packagesPath": "C:\\Users\\Ignis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\C#\\NETCORE\\2x\\CopaFilmes\\3 - WebApi\\CopaFilmes.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\Github\\CopaFilmes\\Backend\\CopaFilmes\\3 - WebApi\\CopaFilmes.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12172,11 +12172,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\C#\\NETCORE\\2x\\CopaFilmes\\0 - Common\\CopaFilmes.Common.WebApi\\CopaFilmes.Common.WebApi.csproj": {
-              "projectPath": "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\C#\\NETCORE\\2x\\CopaFilmes\\0 - Common\\CopaFilmes.Common.WebApi\\CopaFilmes.Common.WebApi.csproj"
+            "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\Github\\CopaFilmes\\Backend\\CopaFilmes\\0 - Common\\CopaFilmes.Common.WebApi\\CopaFilmes.Common.WebApi.csproj": {
+              "projectPath": "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\Github\\CopaFilmes\\Backend\\CopaFilmes\\0 - Common\\CopaFilmes.Common.WebApi\\CopaFilmes.Common.WebApi.csproj"
             },
-            "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\C#\\NETCORE\\2x\\CopaFilmes\\2 - Business\\CopaFilmes.Business.WebApi\\CopaFilmes.Business.WebApi.csproj": {
-              "projectPath": "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\C#\\NETCORE\\2x\\CopaFilmes\\2 - Business\\CopaFilmes.Business.WebApi\\CopaFilmes.Business.WebApi.csproj"
+            "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\Github\\CopaFilmes\\Backend\\CopaFilmes\\2 - Business\\CopaFilmes.Business.WebApi\\CopaFilmes.Business.WebApi.csproj": {
+              "projectPath": "C:\\Users\\Ignis\\source\\repos\\1 - Projects\\Github\\CopaFilmes\\Backend\\CopaFilmes\\2 - Business\\CopaFilmes.Business.WebApi\\CopaFilmes.Business.WebApi.csproj"
             }
           }
         }

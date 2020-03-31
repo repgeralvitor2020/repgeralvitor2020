@@ -9,3 +9,15 @@ C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\2 - Business\C
 C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\2 - Business\CopaFilmes.Business.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Business.WebApi.csproj.CopyComplete
 C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\2 - Business\CopaFilmes.Business.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Business.WebApi.dll
 C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\2 - Business\CopaFilmes.Business.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Business.WebApi.pdb
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\2 - Business\CopaFilmes.Business.WebApi\bin\Debug\netcoreapp2.2\CopaFilmes.Business.WebApi.deps.json
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\2 - Business\CopaFilmes.Business.WebApi\bin\Debug\netcoreapp2.2\CopaFilmes.Business.WebApi.dll
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\2 - Business\CopaFilmes.Business.WebApi\bin\Debug\netcoreapp2.2\CopaFilmes.Business.WebApi.pdb
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\2 - Business\CopaFilmes.Business.WebApi\bin\Debug\netcoreapp2.2\CopaFilmes.Model.WebApi.dll
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\2 - Business\CopaFilmes.Business.WebApi\bin\Debug\netcoreapp2.2\CopaFilmes.Model.WebApi.pdb
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\2 - Business\CopaFilmes.Business.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Business.WebApi.csprojAssemblyReference.cache
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\2 - Business\CopaFilmes.Business.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Business.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\2 - Business\CopaFilmes.Business.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Business.WebApi.AssemblyInfoInputs.cache
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\2 - Business\CopaFilmes.Business.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Business.WebApi.AssemblyInfo.cs
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\2 - Business\CopaFilmes.Business.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Business.WebApi.csproj.CopyComplete
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\2 - Business\CopaFilmes.Business.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Business.WebApi.dll
+C:\Users\Ignis\source\repos\1 - Projects\Github\CopaFilmes\Backend\CopaFilmes\2 - Business\CopaFilmes.Business.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Business.WebApi.pdb
