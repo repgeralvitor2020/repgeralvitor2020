@@ -1,0 +1,14 @@
+C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\0 - Common\CopaFilmes.Common.WebApi\bin\Debug\netcoreapp2.2\CopaFilmes.Common.WebApi.deps.json
+C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\0 - Common\CopaFilmes.Common.WebApi\bin\Debug\netcoreapp2.2\CopaFilmes.Common.WebApi.runtimeconfig.json
+C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\0 - Common\CopaFilmes.Common.WebApi\bin\Debug\netcoreapp2.2\CopaFilmes.Common.WebApi.runtimeconfig.dev.json
+C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\0 - Common\CopaFilmes.Common.WebApi\bin\Debug\netcoreapp2.2\CopaFilmes.Common.WebApi.dll
+C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\0 - Common\CopaFilmes.Common.WebApi\bin\Debug\netcoreapp2.2\CopaFilmes.Common.WebApi.pdb
+C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\0 - Common\CopaFilmes.Common.WebApi\bin\Debug\netcoreapp2.2\CopaFilmes.Model.WebApi.dll
+C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\0 - Common\CopaFilmes.Common.WebApi\bin\Debug\netcoreapp2.2\CopaFilmes.Model.WebApi.pdb
+C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\0 - Common\CopaFilmes.Common.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Common.WebApi.csprojAssemblyReference.cache
+C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\0 - Common\CopaFilmes.Common.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Common.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\0 - Common\CopaFilmes.Common.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Common.WebApi.AssemblyInfoInputs.cache
+C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\0 - Common\CopaFilmes.Common.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Common.WebApi.AssemblyInfo.cs
+C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\0 - Common\CopaFilmes.Common.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Common.WebApi.csproj.CopyComplete
+C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\0 - Common\CopaFilmes.Common.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Common.WebApi.dll
+C:\Users\Ignis\source\repos\1 - Projects\C#\NETCORE\2x\CopaFilmes\0 - Common\CopaFilmes.Common.WebApi\obj\Debug\netcoreapp2.2\CopaFilmes.Common.WebApi.pdb

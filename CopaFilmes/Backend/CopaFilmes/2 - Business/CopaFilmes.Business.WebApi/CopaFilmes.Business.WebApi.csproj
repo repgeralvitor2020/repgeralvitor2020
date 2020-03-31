@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyVersion>1.0.0.17</AssemblyVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\1 - Model\CopaFilmes.Model.WebApi\CopaFilmes.Model.WebApi.csproj" />
+  </ItemGroup>
+
+</Project>
